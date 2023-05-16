@@ -14,6 +14,11 @@ PyTorch implementation for the paper:
 
 > Given the raw audio input and a neutral 3D face mesh, our proposed end-to-end Transformer-based architecture, FaceFormer, can autoregressively synthesize a sequence of realistic 3D facial motions with accurate lip movements.
 
+## Kiran Setup
+
+- use work38 env and not work38_clone
+- place datas and pretrained
+
 ## Environment
 
 - Ubuntu 18.04.1
